@@ -89,7 +89,17 @@ This project provided practical experience in cloud-based security operations by
 
 This work demonstrates capabilities in:
 - **Threat detection & cloud defense**
+- **Log analysis**  
+- **SOC monitoring workflows**  
+- **Cloud security engineering**  
 
+---
+
+## 
+---
+
+## 🔗 References  
+- [Cyber Home Lab from ZERO and Catch Attackers! Free, Easy, and REAL (Microsoft Sentinel 2025)](https://www.youtube.com/watch?v=g5JL2RIbThM)
 
 
 
